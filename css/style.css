@@ -66,6 +66,7 @@ a {
     text-decoration: none;
     color: palevioletred;
     font-style: 28px;
+    margin-left: 60px;
 }
 
 #login-form {
@@ -194,12 +195,8 @@ button[type=submit] {
 @media only screen and (max-width: 550px) {
 
     .full-page {
-        background: url(../images/4k-space-iphone-wallpaper-6.jpg);
-        height: 350vh;
-        width: 100%;
-        background-position: center;
-        background-size: cover;
-        position: absolute;
+        background: radial-gradient(#0587D5, #0d384a);
+        height: 200vh;
     }
 
     #MenuItems a {
