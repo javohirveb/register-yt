@@ -195,7 +195,7 @@ button[type=submit] {
 @media only screen and (max-width: 550px) {
 
     .full-page {
-        background: radial-gradient(#0587D5, #0d384a);
+        background: radial-gradient(rgb(23, 25, 53), #0d384a);
         height: 1corrected height00vh;
     }
 
